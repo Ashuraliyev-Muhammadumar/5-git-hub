@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 200px;
+    height: 200px;
+    background-color: cornflowerblue;
+    border: 10px solid gold;
+    box-sizing: border-box;
+    /* box-sizing: border-box divni ichida border beradi; */
+}
+.container-2{
+    width: 200px;
+    height: 200px;
+    background-color: cornflowerblue;
+    border: 10px solid rgb(29, 28, 20);
+    box-sizing: content-box;
+    /* box-sizing: content-box divni tashqarisida border boladi; */
+}
+.paragrapx-one{
+    color: rgb(34, 39, 44);
+    margin-top: 30px;
+    /* margin-top: tepadan pastga  suradi; */
+    margin-left: 40px;
+    /* margin-left: chap chekkaga suradi; */
+    margin-right: 200px;
+    /* margin-right: chekka ongga suradi; */
+    margin-bottom: 80px;
+    /* margin-bottom: pastga suradi; */
+
+
+
+    
+
+}
+.paragrapx-two{
+    color: rgb(34, 39, 44);
+    margin-top: 30px;
+    /* margin-top: tepadan pastga  suradi; */
+    margin-left: 40px;
+    /* margin-left: chap chekkaga suradi; */
+    margin-right: 200px;
+    /* margin-right: chekka ongga suradi; */
+    margin-bottom: 80px;
+    /* margin-bottom: pastga suradi; */
+
+    
+}
+.text{
+    background-color: aqua;
+    margin: 30px 40px 50px 35px ;
+    padding: 30px 20px 54px 42px;
+    border-top: 10px solid rgb(93, 63, 63);
+    border-right: 32px solid beige;
+    border-bottom: 7px solid gold;
+    border-left: 8px solid green;
+    color: red;
+}
